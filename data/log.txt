@@ -1,0 +1,547 @@
+2022-01-12 14:55:24,207 __main__ INFO Bot started
+2022-01-12 14:55:38,227 __main__ INFO Bot started
+2022-01-12 14:56:35,780 __main__ INFO Bot started
+2022-01-12 14:57:19,85 __main__ INFO Bot started
+2022-01-12 14:57:19,85 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 14:57:38,879 __main__ INFO Bot started
+2022-01-12 14:57:49,903 __main__ INFO Bot started
+2022-01-12 14:57:49,904 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:00:26,771 __main__ INFO Bot started
+2022-01-12 15:00:26,771 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:02:11,390 __main__ INFO Bot started
+2022-01-12 15:02:11,390 __main__ INFO Testing: harry ID: 
+2022-01-12 15:02:51,132 __main__ INFO Bot started
+2022-01-12 15:02:51,132 __main__ INFO Testing: harry ID: 
+2022-01-12 15:03:43,552 __main__ INFO Bot started
+2022-01-12 15:03:43,553 __main__ INFO Testing: harry ID: 
+2022-01-12 15:04:16,470 __main__ INFO Bot started
+2022-01-12 15:04:16,480 __main__ INFO Testing: harry ID: 
+2022-01-12 15:06:16,584 __main__ INFO Bot started
+2022-01-12 15:06:16,585 __main__ INFO Testing: harry ID: 
+2022-01-12 15:06:16,969 __main__ INFO Account with id 1309346205491576832 has changed: {'name': 'harry', 'username': 'harrychung123', 'id': '1309346205491576832'}
+2022-01-12 15:06:17,959 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:17,959 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:18,825 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:18,825 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:19,603 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:19,603 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:20,327 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:20,328 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:21,139 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:21,139 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:21,805 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:21,805 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:22,498 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:22,498 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:23,174 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:23,174 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:23,688 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:23,688 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:24,238 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:24,238 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:24,791 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:24,791 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:25,410 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:25,410 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:25,973 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:25,974 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:06:26,611 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:06:26,611 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:10:04,431 __main__ INFO Bot started
+2022-01-12 15:10:04,482 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:10:04,482 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:10:05,501 twitter ERROR API rate limit reached: 429 Waiting 672 seconds
+2022-01-12 15:12:42,98 __main__ INFO Bot started
+2022-01-12 15:12:42,99 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:12:42,99 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:12:42,446 twitter ERROR API rate limit reached: 429 Waiting 515 seconds
+2022-01-12 15:16:39,523 __main__ INFO Bot started
+2022-01-12 15:16:39,539 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:16:39,540 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:16:39,945 twitter ERROR API rate limit reached: 429 Waiting 278 seconds
+2022-01-12 15:21:18,433 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) followed Jakey.sol (@nftjakey) 📈
+2022-01-12 15:21:20,962 telegram INFO Telegram message status: False
+2022-01-12 15:21:20,965 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:20,965 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:21,613 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:21,613 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:22,136 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:22,136 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:22,639 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:22,639 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:23,138 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:23,138 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:23,630 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:23,630 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:24,172 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:24,172 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:24,663 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:24,664 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:25,125 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:25,126 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:25,683 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:25,683 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:26,180 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:26,180 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:26,614 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:26,614 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:27,87 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:27,87 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:27,592 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:27,592 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:21:28,165 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:21:28,165 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:24:48,181 __main__ INFO Bot started
+2022-01-12 15:24:48,181 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:24:48,181 __main__ INFO Testing: harry ID: 
+2022-01-12 15:24:48,472 __main__ INFO Account with id 1309346205491576832 has changed: {'name': 'harry', 'username': 'harrychung123', 'id': '1309346205491576832'}
+2022-01-12 15:24:48,726 twitter ERROR API rate limit reached: 429 Waiting 690 seconds
+2022-01-12 15:36:19,572 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed Jakey.sol (@nftjakey) 📉
+2022-01-12 15:36:20,580 telegram INFO Telegram message status: False
+2022-01-12 15:36:20,582 __main__ INFO Testing: SolSniper ID: 
+2022-01-12 15:36:20,842 __main__ INFO Account with id 1399393068562911232 has changed: {'name': 'SolSniper', 'username': 'solsniperr', 'id': '1399393068562911232'}
+2022-01-12 15:36:21,932 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:36:21,932 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:36:22,521 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:36:23,158 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:36:23,158 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:36:23,610 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:36:24,119 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:36:24,119 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:36:24,745 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:36:25,396 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:36:25,396 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:36:26,5 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:36:26,518 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:36:26,518 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:36:26,944 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:36:27,453 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:36:27,453 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:36:27,992 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:36:28,622 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:36:28,623 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:39:48,402 twitter ERROR API rate limit reached: 429 Waiting 691 seconds
+2022-01-12 15:42:15,977 __main__ INFO Bot started
+2022-01-12 15:42:15,978 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:42:15,978 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:42:16,226 twitter ERROR API rate limit reached: 429 Waiting 543 seconds
+2022-01-12 15:51:19,592 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) followed NBA Top Shot (@nbatopshot) 📈
+2022-01-12 15:51:20,362 telegram INFO Telegram message status: False
+2022-01-12 15:51:20,362 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) followed NBA 2K (@NBA2K) 📈
+2022-01-12 15:51:21,8 telegram INFO Telegram message status: False
+2022-01-12 15:51:21,8 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) followed NBA (@NBA) 📈
+2022-01-12 15:51:21,637 telegram INFO Telegram message status: False
+2022-01-12 15:51:21,637 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) followed Caff (@ChadCaff) 📈
+2022-01-12 15:51:22,571 telegram INFO Telegram message status: False
+2022-01-12 15:51:22,573 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:51:23,56 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:51:23,56 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:51:23,524 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:51:23,974 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:51:23,974 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:51:24,378 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:51:24,862 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:51:24,862 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:51:25,293 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:51:25,798 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:51:25,798 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:51:26,228 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:51:26,635 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:51:26,635 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:51:27,102 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:51:27,525 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:51:27,525 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:51:28,174 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 15:51:28,608 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 15:51:28,608 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 15:51:29,28 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 16:39:43,560 __main__ INFO Bot started
+2022-01-12 16:39:43,580 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 16:39:44,638 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:39:44,638 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:39:45,250 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed NBA Top Shot (@nbatopshot) 📉
+2022-01-12 16:44:12,630 __main__ INFO Bot started
+2022-01-12 16:44:12,652 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:44:12,653 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:44:13,520 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed NBA Top Shot (@nbatopshot) 📉
+2022-01-12 16:46:11,280 __main__ INFO Bot started
+2022-01-12 16:46:11,280 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:46:11,280 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:46:11,869 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed NBA Top Shot (@nbatopshot) 📉
+2022-01-12 16:50:15,965 __main__ INFO Bot started
+2022-01-12 16:50:15,983 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:50:15,983 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:50:16,662 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed NBA Top Shot (@nbatopshot) 📉
+2022-01-12 16:59:14,707 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-12 16:59:14,722 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-12 16:59:14,975 telethon.network.mtprotosender INFO Connecting to 149.154.167.51:443/TcpFull...
+2022-01-12 16:59:16,614 telethon.network.mtprotosender INFO Connection to 149.154.167.51:443/TcpFull complete!
+2022-01-12 16:59:17,356 telethon.client.users INFO Phone migrated to 1
+2022-01-12 16:59:17,356 telethon.client.telegrambaseclient INFO Reconnecting to new data center 1
+2022-01-12 16:59:17,601 telethon.network.mtprotosender INFO Disconnecting from 149.154.167.51:443/TcpFull...
+2022-01-12 16:59:17,602 telethon.network.mtprotosender INFO Disconnection from 149.154.167.51:443/TcpFull complete!
+2022-01-12 16:59:17,603 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 16:59:18,778 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 16:59:22,405 __main__ INFO Bot started
+2022-01-12 16:59:22,418 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:59:22,418 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:59:23,20 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed NBA Top Shot (@nbatopshot) 📉
+2022-01-12 16:59:23,21 telethon.network.mtprotosender ERROR Request caused struct.error: required argument is not an integer: SendMessageRequest(peer=InputPeerUser(user_id='user_id', access_hash='user_hash'), message='🔴 SOURCES:\nharry (@harrychung123) unfollowed NBA Top Shot (@nbatopshot) 📉', no_webpage=False, silent=None, background=None, clear_draft=False, reply_to_msg_id=None, random_id=-5060755314084315700, reply_markup=None, entities=[], schedule_date=None)
+2022-01-12 16:59:23,173 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed NBA 2K (@NBA2K) 📉
+2022-01-12 16:59:23,173 telethon.network.mtprotosender ERROR Request caused struct.error: required argument is not an integer: SendMessageRequest(peer=InputPeerUser(user_id='user_id', access_hash='user_hash'), message='🔴 SOURCES:\nharry (@harrychung123) unfollowed NBA 2K (@NBA2K) 📉', no_webpage=False, silent=None, background=None, clear_draft=False, reply_to_msg_id=None, random_id=2571860937754997682, reply_markup=None, entities=[], schedule_date=None)
+2022-01-12 16:59:23,303 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed NBA (@NBA) 📉
+2022-01-12 16:59:23,304 telethon.network.mtprotosender ERROR Request caused struct.error: required argument is not an integer: SendMessageRequest(peer=InputPeerUser(user_id='user_id', access_hash='user_hash'), message='🔴 SOURCES:\nharry (@harrychung123) unfollowed NBA (@NBA) 📉', no_webpage=False, silent=None, background=None, clear_draft=False, reply_to_msg_id=None, random_id=3642941012079874903, reply_markup=None, entities=[], schedule_date=None)
+2022-01-12 16:59:23,306 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 16:59:23,789 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:59:23,789 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:59:24,215 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 16:59:24,680 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:59:24,680 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:59:25,103 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 16:59:25,906 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:59:25,907 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:59:26,676 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 16:59:27,344 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:59:27,344 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:59:27,760 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 16:59:28,403 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:59:28,403 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:59:28,812 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 16:59:29,279 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:59:29,279 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:59:29,730 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 16:59:30,228 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 16:59:30,228 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 16:59:30,705 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:00:40,75 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-12 17:00:40,76 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-12 17:00:40,202 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 17:00:40,284 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 17:00:40,822 __main__ INFO Bot started
+2022-01-12 17:00:40,822 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:00:41,83 twitter ERROR API rate limit reached: 429 Waiting 821 seconds
+2022-01-12 17:14:22,569 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:14:22,597 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:14:23,327 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) followed Byron ❄️ (@bbjk26) 📈
+2022-01-12 17:14:23,329 telethon.network.mtprotosender ERROR Request caused struct.error: required argument is not an integer: SendMessageRequest(peer=InputPeerUser(user_id='user_id', access_hash='user_hash'), message='hi', no_webpage=False, silent=None, background=None, clear_draft=False, reply_to_msg_id=None, random_id=-3896840122107551436, reply_markup=None, entities=[], schedule_date=None)
+2022-01-12 17:14:23,502 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed Monster Shelter NFT 👾 (@MonstersShelter) 📉
+2022-01-12 17:14:23,503 telethon.network.mtprotosender ERROR Request caused struct.error: required argument is not an integer: SendMessageRequest(peer=InputPeerUser(user_id='user_id', access_hash='user_hash'), message='hi', no_webpage=False, silent=None, background=None, clear_draft=False, reply_to_msg_id=None, random_id=-426749396505790296, reply_markup=None, entities=[], schedule_date=None)
+2022-01-12 17:14:23,505 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:14:24,79 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:14:24,80 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:14:24,625 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:14:25,530 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:14:25,530 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:14:26,38 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:14:26,699 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:14:26,699 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:14:27,510 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:14:28,99 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:14:28,99 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:14:28,730 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:14:29,412 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:14:29,413 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:14:30,190 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:14:30,941 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:14:30,941 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:14:31,644 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:14:32,583 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:14:32,583 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:15:41,296 twitter ERROR API rate limit reached: 429 Waiting 821 seconds
+2022-01-12 17:44:13,276 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-12 17:44:13,294 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-12 17:44:13,568 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 17:44:13,649 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 17:44:13,953 __main__ INFO Bot started
+2022-01-12 17:44:13,953 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:44:13,953 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:44:14,496 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:44:14,945 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:44:14,945 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:44:15,336 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:44:15,818 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:44:15,819 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:44:16,228 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:44:16,647 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:44:16,647 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:44:17,79 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:44:17,553 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:44:17,553 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:44:17,994 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:44:18,434 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:44:18,434 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:44:18,830 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:44:19,301 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:44:19,301 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:44:19,731 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:44:20,201 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:44:20,202 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:44:20,649 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:45:02,620 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-12 17:45:02,639 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-12 17:45:02,902 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 17:45:02,982 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 17:45:03,298 __main__ INFO Bot started
+2022-01-12 17:45:03,317 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:45:03,578 twitter ERROR API rate limit reached: 429 Waiting 851 seconds
+2022-01-12 17:55:37,11 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-12 17:55:37,12 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-12 17:55:37,273 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 17:55:37,357 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 17:55:37,680 __main__ INFO Bot started
+2022-01-12 17:55:37,681 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:55:37,963 twitter ERROR API rate limit reached: 429 Waiting 217 seconds
+2022-01-12 17:58:16,43 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-12 17:58:16,59 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-12 17:58:16,387 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 17:58:16,469 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 17:58:16,780 __main__ INFO Bot started
+2022-01-12 17:58:16,780 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:58:17,92 twitter ERROR API rate limit reached: 429 Waiting 57 seconds
+2022-01-12 17:58:29,799 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-12 17:58:29,799 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-12 17:58:29,926 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 17:58:30,12 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 17:58:30,371 __main__ INFO Bot started
+2022-01-12 17:58:30,372 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:58:30,647 twitter ERROR API rate limit reached: 429 Waiting 44 seconds
+2022-01-12 17:59:14,997 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:59:14,997 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:59:15,544 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) followed Madden NFL 22 (@EAMaddenNFL) 📈
+2022-01-12 17:59:15,544 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) followed NFL (@NFL) 📈
+2022-01-12 17:59:15,546 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:59:16,33 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:59:16,33 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:59:16,462 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 17:59:16,953 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 17:59:16,953 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 17:59:17,447 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 18:01:22,149 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-12 18:01:22,150 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-12 18:01:22,305 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 18:01:22,387 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 18:01:22,723 __main__ INFO Bot started
+2022-01-12 18:01:22,724 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 18:01:23,206 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 18:01:23,206 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 18:01:23,634 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) followed NFL on CBS 🏈 (@NFLonCBS) 📈
+2022-01-12 18:01:23,840 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) followed NFL Media (@NFLMedia) 📈
+2022-01-12 18:01:24,45 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 18:01:24,512 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 18:01:24,512 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 18:01:24,960 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 18:01:25,374 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 18:01:25,374 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 18:01:25,832 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 18:01:26,411 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 18:01:26,411 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 18:07:03,4 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-12 18:07:03,14 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-12 18:07:03,403 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 18:07:03,487 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 18:07:03,855 __main__ INFO Bot started
+2022-01-12 18:08:05,579 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-12 18:08:05,614 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-12 18:08:05,862 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 18:08:05,955 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 18:08:06,707 __main__ INFO Bot started
+2022-01-12 18:08:06,719 __main__ INFO Testing: Mrbankstips ID: 
+2022-01-12 18:08:06,901 __main__ INFO Account with id 1921427474 has changed: {'name': 'Mrbankstips', 'username': 'Mrbankstips', 'id': '1921427474'}
+2022-01-12 18:08:07,8 twitter ERROR API rate limit reached: 429 Waiting 367 seconds
+2022-01-12 18:14:17,137 __main__ INFO Testing: SerpentAU ID: 
+2022-01-12 18:14:17,273 __main__ INFO Account with id 993831364095983616 has changed: {'name': 'SerpentAU', 'username': 'SerpentAU', 'id': '993831364095983616'}
+2022-01-12 18:14:18,874 __main__ INFO Testing: DeFi_Brian ID: 
+2022-01-12 18:14:19,9 __main__ INFO Account with id 1295766451530293249 has changed: {'name': 'DeFi_Brian', 'username': 'DeFi_Brian', 'id': '1295766451530293249'}
+2022-01-12 18:23:06,857 twitter ERROR API rate limit reached: 429 Waiting 368 seconds
+2022-01-12 18:29:17,959 __main__ INFO Testing: TheJMBC ID: 
+2022-01-12 18:29:18,145 __main__ INFO Account with id 385749492 has changed: {'name': 'TheJMBC', 'username': 'TheJMBC', 'id': '385749492'}
+2022-01-12 18:29:19,326 __main__ INFO Testing: BentoBoiNFT ID: 
+2022-01-12 18:29:19,458 __main__ INFO Account with id 1357259205191766016 has changed: {'name': 'BentoBoiNFT', 'username': 'BentoBoiNFT', 'id': '1357259205191766016'}
+2022-01-12 18:29:20,611 __main__ INFO Testing: kevlnhe ID: 
+2022-01-12 18:29:20,750 __main__ INFO Account with id 1337862939659829248 has changed: {'name': 'kevlnhe', 'username': 'kevlnhe', 'id': '1337862939659829248'}
+2022-01-12 18:29:21,405 __main__ INFO Testing: steveaoki ID: 
+2022-01-12 18:29:21,520 __main__ INFO Account with id 17019152 has changed: {'name': 'steveaoki', 'username': 'steveaoki', 'id': '17019152'}
+2022-01-12 18:38:06,847 twitter ERROR API rate limit reached: 429 Waiting 369 seconds
+2022-01-12 18:44:21,443 __main__ INFO Testing: JRNYcrypto ID: 
+2022-01-12 18:44:21,585 __main__ INFO Account with id 952087880918228992 has changed: {'name': 'JRNYcrypto', 'username': 'JRNYcrypto', 'id': '952087880918228992'}
+2022-01-12 18:44:22,467 __main__ INFO Testing: DeFi_Warlord ID: 
+2022-01-12 18:44:22,575 __main__ INFO Account with id 1334952056390479873 has changed: {'name': 'DeFi_Warlord', 'username': 'DeFi_Warlord', 'id': '1334952056390479873'}
+2022-01-12 18:53:06,805 twitter ERROR API rate limit reached: 429 Waiting 370 seconds
+2022-01-12 18:59:17,242 __main__ INFO Testing: ishverduzco ID: 
+2022-01-12 18:59:17,429 __main__ INFO Account with id 122889863 has changed: {'name': 'ishverduzco', 'username': 'ishverduzco', 'id': '122889863'}
+2022-01-12 18:59:21,141 __main__ INFO Testing: ryandcrypto ID: 
+2022-01-12 18:59:21,260 __main__ INFO Account with id 1321502344660439040 has changed: {'name': 'ryandcrypto', 'username': 'ryandcrypto', 'id': '1321502344660439040'}
+2022-01-12 18:59:22,159 __main__ INFO Testing: MarkReadings ID: 
+2022-01-12 18:59:22,286 __main__ INFO Account with id 357350166 has changed: {'name': 'MarkReadings', 'username': 'MarkReadings', 'id': '357350166'}
+2022-01-12 18:59:23,158 __main__ INFO Testing: beaniemaxi ID: 
+2022-01-12 18:59:23,274 __main__ INFO Account with id 1351139954525696005 has changed: {'name': 'beaniemaxi', 'username': 'beaniemaxi', 'id': '1351139954525696005'}
+2022-01-12 18:59:25,854 __main__ INFO Testing: gmoneyNFT ID: 
+2022-01-12 18:59:25,977 __main__ INFO Account with id 1311393885806100481 has changed: {'name': 'gmoneyNFT', 'username': 'gmoneyNFT', 'id': '1311393885806100481'}
+2022-01-12 19:08:07,881 twitter ERROR API rate limit reached: 429 Waiting 369 seconds
+2022-01-12 19:14:18,977 __main__ INFO Testing: jebus911 ID: 
+2022-01-12 19:14:19,345 __main__ INFO Account with id 162573283 has changed: {'name': 'jebus911', 'username': 'jebus911', 'id': '162573283'}
+2022-01-12 19:14:21,140 __main__ INFO Testing: Paranew3 ID: 
+2022-01-12 19:14:21,257 __main__ INFO Account with id 1067029527245832192 has changed: {'name': 'Paranew3', 'username': 'Paranew3', 'id': '1067029527245832192'}
+2022-01-12 19:14:23,364 __main__ INFO Testing: pingu2k4 ID: 
+2022-01-12 19:14:23,490 __main__ INFO Account with id 2969656619 has changed: {'name': 'pingu2k4', 'username': 'Pingu2k4', 'id': '2969656619'}
+2022-01-12 19:14:24,765 __main__ INFO Testing: MacnBTC ID: 
+2022-01-12 19:14:24,918 __main__ INFO Account with id 996294856078188544 has changed: {'name': 'MacnBTC', 'username': 'MacnBTC', 'id': '996294856078188544'}
+2022-01-12 19:23:06,780 twitter ERROR API rate limit reached: 429 Waiting 371 seconds
+2022-01-12 19:29:18,224 __main__ INFO Testing: TraderKoz ID: 
+2022-01-12 19:29:18,369 __main__ INFO Account with id 1019660554472837120 has changed: {'name': 'TraderKoz', 'username': 'TraderKoz', 'id': '1019660554472837120'}
+2022-01-12 19:29:19,292 __main__ INFO Testing: JammaPelson1 ID: 
+2022-01-12 19:29:19,417 __main__ INFO Account with id 1457113364161720321 has changed: {'name': 'JammaPelson1', 'username': 'JammaPelson1', 'id': '1457113364161720321'}
+2022-01-12 19:29:20,342 __main__ INFO Testing: takoa__ ID: 
+2022-01-12 19:29:20,466 __main__ INFO Account with id 808513538 has changed: {'name': 'takoa__', 'username': 'takoa__', 'id': '808513538'}
+2022-01-12 19:29:22,247 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 19:29:22,248 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 19:29:23,16 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) followed Antonym (@AntonymNFT) 📈
+2022-01-12 19:29:23,114 telethon.network.connection.connection INFO The server closed the connection
+2022-01-12 19:29:23,114 telethon.network.connection.connection INFO <class 'ConnectionResetError'> during disconnect: [Errno 54] Connection reset by peer
+2022-01-12 19:29:23,115 telethon.network.mtprotosender INFO Connection closed while receiving data
+2022-01-12 19:29:23,115 telethon.network.mtprotosender INFO Closing current connection to begin reconnect...
+2022-01-12 19:29:23,115 telethon.network.connection.connection INFO <class 'ConnectionResetError'> during disconnect: [Errno 54] Connection reset by peer
+2022-01-12 19:29:23,115 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 19:29:23,199 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 19:29:23,663 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed NFL on CBS 🏈 (@NFLonCBS) 📉
+2022-01-12 19:29:24,27 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed NFL Media (@NFLMedia) 📉
+2022-01-12 19:29:24,433 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed Madden NFL 22 (@EAMaddenNFL) 📉
+2022-01-12 19:29:24,754 twitter INFO Tweet published: 🔴 SOURCES: harry (@harrychung123) unfollowed NFL (@NFL) 📉
+2022-01-12 19:29:24,948 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 19:29:25,624 __main__ INFO Testing: Mrbankstips ID: 1921427474
+2022-01-12 19:29:27,326 __main__ INFO Testing: SerpentAU ID: 993831364095983616
+2022-01-12 19:38:07,416 twitter ERROR API rate limit reached: 429 Waiting 370 seconds
+2022-01-12 19:43:23,682 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-12 19:43:23,688 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-12 19:43:23,890 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 19:43:23,974 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 19:43:24,291 __main__ INFO Bot started
+2022-01-12 19:43:24,291 __main__ INFO Testing: SerpentAU ID: 993831364095983616
+2022-01-12 19:43:24,578 twitter ERROR API rate limit reached: 429 Waiting 53 seconds
+2022-01-12 19:44:18,694 __main__ INFO Testing: DeFi_Brian ID: 1295766451530293249
+2022-01-12 19:44:21,643 twitter INFO Tweet published: DeFi_Brian (https://twitter.com/DeFi_Brian) followed Rose👺 (https://twitter.com/nameless_rose) 📈
+2022-01-12 19:44:21,922 twitter INFO Tweet published: DeFi_Brian (https://twitter.com/DeFi_Brian) followed ogdoge (https://twitter.com/ogdogenfts) 📈
+2022-01-12 19:44:22,157 __main__ INFO Testing: TheJMBC ID: 385749492
+2022-01-12 19:44:22,867 twitter INFO Tweet published: TheJMBC (https://twitter.com/TheJMBC) followed Andrew Forte (https://twitter.com/_AndrewForte) 📈
+2022-01-12 19:44:23,83 twitter INFO Tweet published: TheJMBC (https://twitter.com/TheJMBC) followed theWinoandIKnow (https://twitter.com/thejoshnft) 📈
+2022-01-12 19:44:23,296 twitter INFO Tweet published: TheJMBC (https://twitter.com/TheJMBC) followed ArtSoulShalini (https://twitter.com/ArtSoulShalini) 📈
+2022-01-12 19:44:23,501 __main__ INFO Testing: BentoBoiNFT ID: 1357259205191766016
+2022-01-12 19:44:24,266 __main__ INFO Testing: kevlnhe ID: 1337862939659829248
+2022-01-12 19:44:24,776 twitter INFO Tweet published: kevlnhe (https://twitter.com/kevlnhe) followed Boniek | NFT Promoter 🐋 (https://twitter.com/amyama1234) 📈
+2022-01-12 19:44:25,2 twitter INFO Tweet published: kevlnhe (https://twitter.com/kevlnhe) followed riko the degen (https://twitter.com/degenriko) 📈
+2022-01-12 19:44:25,216 __main__ INFO Testing: steveaoki ID: 17019152
+2022-01-12 19:58:24,788 twitter ERROR API rate limit reached: 429 Waiting 53 seconds
+2022-01-12 19:59:18,835 __main__ INFO Testing: JRNYcrypto ID: 952087880918228992
+2022-01-12 19:59:19,504 __main__ INFO Testing: DeFi_Warlord ID: 1334952056390479873
+2022-01-12 19:59:21,79 __main__ INFO Testing: ishverduzco ID: 122889863
+2022-01-12 19:59:23,31 twitter INFO Tweet published: ishverduzco (https://twitter.com/ishverduzco) followed liquiddensity.eth ✽ (https://twitter.com/liquiddensity) 📈
+2022-01-12 19:59:23,263 __main__ INFO Testing: ryandcrypto ID: 1321502344660439040
+2022-01-12 19:59:24,28 __main__ INFO Testing: MarkReadings ID: 357350166
+2022-01-12 19:59:24,691 __main__ INFO Testing: beaniemaxi ID: 1351139954525696005
+2022-01-12 19:59:27,462 __main__ INFO Testing: gmoneyNFT ID: 1311393885806100481
+2022-01-12 19:59:29,462 __main__ INFO Testing: jebus911 ID: 162573283
+2022-01-12 20:13:24,496 twitter ERROR API rate limit reached: 429 Waiting 54 seconds
+2022-01-12 20:14:19,304 __main__ INFO Testing: Paranew3 ID: 1067029527245832192
+2022-01-12 20:14:21,534 __main__ INFO Testing: pingu2k4 ID: 2969656619
+2022-01-12 20:14:22,861 __main__ INFO Testing: MacnBTC ID: 996294856078188544
+2022-01-12 20:14:23,931 __main__ INFO Testing: TraderKoz ID: 1019660554472837120
+2022-01-12 20:14:25,47 __main__ INFO Testing: JammaPelson1 ID: 1457113364161720321
+2022-01-12 20:14:26,198 __main__ INFO Testing: takoa__ ID: 808513538
+2022-01-12 20:14:27,442 __main__ INFO  ---------- LOOP FINISHED ---------- 
+2022-01-12 20:14:27,442 __main__ INFO Testing: harry ID: 1309346205491576832
+2022-01-12 20:14:27,897 twitter INFO Tweet published: harry (https://twitter.com/harrychung123) followed prodz (https://twitter.com/0xProdz) 📈
+2022-01-12 20:14:27,901 telethon.network.connection.connection INFO The server closed the connection
+2022-01-12 20:14:27,901 telethon.network.mtprotosender INFO Connection closed while sending data
+2022-01-12 20:14:27,902 telethon.network.mtprotosender INFO Closing current connection to begin reconnect...
+2022-01-12 20:14:27,902 telethon.network.mtprotosender INFO Connection closed while receiving data
+2022-01-12 20:14:27,902 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-12 20:14:27,988 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-12 20:14:28,101 telethon.network.mtprotosender WARNING Security error while unpacking a received message: Server replied with a wrong session ID
+2022-01-12 20:14:28,343 twitter INFO Tweet published: harry (https://twitter.com/harrychung123) followed Vedant Bhatter (https://twitter.com/vedantbhatter09) 📈
+2022-01-12 20:14:28,582 __main__ INFO Testing: SolSniper ID: 1399393068562911232
+2022-01-12 20:14:29,348 __main__ INFO Testing: Mrbankstips ID: 1921427474
+2022-01-12 20:14:31,436 __main__ INFO Testing: SerpentAU ID: 993831364095983616
+2022-01-12 20:28:24,438 twitter ERROR API rate limit reached: 429 Waiting 54 seconds
+2022-01-13 16:37:54,334 telethon.crypto.libssl INFO Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2022-01-13 16:37:54,335 telethon.crypto.aes INFO cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2022-01-13 16:37:54,545 telethon.network.mtprotosender INFO Connecting to 149.154.175.52:443/TcpFull...
+2022-01-13 16:37:54,781 telethon.network.mtprotosender INFO Connection to 149.154.175.52:443/TcpFull complete!
+2022-01-13 16:37:55,463 __main__ INFO Bot started
+2022-01-13 16:37:55,466 __main__ INFO Testing: SerpentAU ID: 993831364095983616
+2022-01-13 16:37:56,902 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) followed OnlyForNFTs (https://twitter.com/OnlyForNFTs1) 📈
+2022-01-13 16:37:57,405 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) followed Limit Bunny ⚡️ (https://twitter.com/BailoutBunny) 📈
+2022-01-13 16:37:57,881 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) followed Caleb 😶 (https://twitter.com/Cehlub) 📈
+2022-01-13 16:37:58,405 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Cameron 0'Reilly | BORGAR (https://twitter.com/BluePickleRick) 📉
+2022-01-13 16:37:58,967 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed concrete boy boat (https://twitter.com/lilyachty) 📉
+2022-01-13 16:37:59,568 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed ₿ULLY₿TC (https://twitter.com/bully_btc) 📉
+2022-01-13 16:38:00,400 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed asuna (https://twitter.com/AsunaZK) 📉
+2022-01-13 16:38:01,15 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Trash NFTs (https://twitter.com/Trash_NFTs) 📉
+2022-01-13 16:38:01,530 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Zorto (https://twitter.com/Zorto_) 📉
+2022-01-13 16:38:02,286 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed 💀Skulls WTF NFT (https://twitter.com/skullswtf) 📉
+2022-01-13 16:38:03,147 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed BurglarCats (https://twitter.com/burglarcatsnft) 📉
+2022-01-13 16:38:03,819 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed kiritsujikan (https://twitter.com/kiritsujikan) 📉
+2022-01-13 16:38:04,290 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Karnage (https://twitter.com/KarnageHimself) 📉
+2022-01-13 16:38:04,851 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed yix fan xian (https://twitter.com/uhxian) 📉
+2022-01-13 16:38:05,340 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Kahtaz Sub acc (https://twitter.com/kaaahtz) 📉
+2022-01-13 16:38:05,824 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Mqt (https://twitter.com/mqtvfx) 📉
+2022-01-13 16:38:06,383 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Hellions Esports (https://twitter.com/HellionsEsports) 📉
+2022-01-13 16:38:06,896 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Skvllpvnkz | NFT Collectibles (https://twitter.com/skvllpvnkz) 📉
+2022-01-13 16:38:07,751 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed ASSAULT PUMPY (https://twitter.com/yeahpumpy) 📉
+2022-01-13 16:38:08,543 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed FMC (https://twitter.com/FreeMintClub) 📉
+2022-01-13 16:38:09,18 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Paladin Pandas NFT🐼 (https://twitter.com/Paladin_Pandas) 📉
+2022-01-13 16:38:09,567 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed zyra (https://twitter.com/zyraOCE) 📉
+2022-01-13 16:38:10,502 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed davin (https://twitter.com/davinvl) 📉
+2022-01-13 16:38:11,121 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed DV Krownz 🤍 (https://twitter.com/Krownzily) 📉
+2022-01-13 16:38:11,627 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed chaos (https://twitter.com/chaos2g_) 📉
+2022-01-13 16:38:12,185 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Zykxo 🇰🇼 (https://twitter.com/Zykxoo) 📉
+2022-01-13 16:38:12,752 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Decent 🍩 (https://twitter.com/DecentNZ) 📉
+2022-01-13 16:38:13,264 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed brady :) (https://twitter.com/bradysmudge) 📉
+2022-01-13 16:38:13,778 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Avora Ovvkd 乡💫 (https://twitter.com/Ovvkd) 📉
+2022-01-13 16:38:14,220 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Superstar 💫 (https://twitter.com/SuperstarGuyy) 📉
+2022-01-13 16:38:15,10 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed COSMIC 999 (https://twitter.com/CosmicExplore) 📉
+2022-01-13 16:38:15,104 telethon.client.users INFO Sleeping for 43s (0:00:43) on ResolveUsernameRequest flood wait
+2022-01-13 16:38:58,637 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed SKITTLES (https://twitter.com/Skittles) 📉
+2022-01-13 16:38:59,30 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed XSET Ceice (https://twitter.com/Ceice) 📉
+2022-01-13 16:38:59,357 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Moody Krows (https://twitter.com/KrowsCo) 📉
+2022-01-13 16:39:00,144 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Matthew Beem (https://twitter.com/Mbeem10) 📉
+2022-01-13 16:39:00,512 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Degen Lizzy NFT (Solana) (https://twitter.com/DegenLizzy_NFT) 📉
+2022-01-13 16:39:01,129 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Togman (https://twitter.com/Togman1) 📉
+2022-01-13 16:39:01,481 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Shotzz 🇱🇧 (https://twitter.com/impulsegrenades) 📉
+2022-01-13 16:39:02,49 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed NicosseYT (https://twitter.com/NicosseYT) 📉
+2022-01-13 16:39:02,417 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed prhzuk (https://twitter.com/prhz7) 📉
+2022-01-13 16:39:02,893 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed ADVANCED®gg (https://twitter.com/ADVANCEDgg) 📉
+2022-01-13 16:39:03,337 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed s. (https://twitter.com/sustaino1k) 📉
+2022-01-13 16:39:03,676 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed turtle (https://twitter.com/turtleyuh) 📉
+2022-01-13 16:39:04,169 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed ٍ (https://twitter.com/HateLoux) 📉
+2022-01-13 16:39:04,602 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed PK (https://twitter.com/PrudentKido) 📉
+2022-01-13 16:39:05,202 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Ryan Collado (https://twitter.com/rycollad2) 📉
+2022-01-13 16:39:05,596 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Frosty (https://twitter.com/FrstyFN) 📉
+2022-01-13 16:39:06,88 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Chiilz (https://twitter.com/chiilzyt) 📉
+2022-01-13 16:39:06,607 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Lootboy Seby (https://twitter.com/Seby1x) 📉
+2022-01-13 16:39:07,82 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Limit Kash #ll (https://twitter.com/27kashy) 📉
+2022-01-13 16:39:07,518 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed TT9 Brin | NFT Promoter (https://twitter.com/17Brin) 📉
+2022-01-13 16:39:07,891 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed DL Slxpe (https://twitter.com/slxpee) 📉
+2022-01-13 16:39:08,334 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed # BH Squeakz (https://twitter.com/BHSqueakz) 📉
+2022-01-13 16:39:09,190 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Delay♟️💔 (https://twitter.com/DelayDZN) 📉
+2022-01-13 16:39:09,850 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed 悲しみ (https://twitter.com/NoodleGod_) 📉
+2022-01-13 16:39:10,699 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed BBG IAN (https://twitter.com/ianloltv) 📉
+2022-01-13 16:39:11,222 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed GOLDEN (https://twitter.com/imgoldenyt) 📉
+2022-01-13 16:39:11,804 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Pandas (https://twitter.com/PandasOCE) 📉
+2022-01-13 16:39:12,283 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed hardman (https://twitter.com/hardmanios) 📉
+2022-01-13 16:39:12,894 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Serenn (https://twitter.com/Serenn_AU) 📉
+2022-01-13 16:39:13,462 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Overt Strict (https://twitter.com/StrictAU) 📉
+2022-01-13 16:39:13,555 telethon.client.users INFO Sleeping for 46s (0:00:46) on ResolveUsernameRequest flood wait
+2022-01-13 16:40:00,477 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed ZEUZ MAKES MUSIC 🤟🔥✨🧬 (https://twitter.com/zeuzmakesmusic) 📉
+2022-01-13 16:40:00,963 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed JFT AXEIAA 🦋 (https://twitter.com/AXEIAA) 📉
+2022-01-13 16:40:01,299 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed slv sio (https://twitter.com/siotc) 📉
+2022-01-13 16:40:01,763 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Reverts (https://twitter.com/Rever1s) 📉
+2022-01-13 16:40:02,241 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed aa hektixx ϟ (https://twitter.com/hektixx) 📉
+2022-01-13 16:40:02,705 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Kimba (https://twitter.com/Kimbazx) 📉
+2022-01-13 16:40:03,107 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Omar (https://twitter.com/OmarWRLD) 📉
+2022-01-13 16:40:03,620 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Axptz (https://twitter.com/AxeptzDZN) 📉
+2022-01-13 16:40:04,66 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed PRDX Shuzzy (https://twitter.com/Shuzzy10) 📉
+2022-01-13 16:40:04,427 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Rakic (https://twitter.com/Luca_Rakic) 📉
+2022-01-13 16:40:05,59 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed ༒ (https://twitter.com/wearylust) 📉
+2022-01-13 16:40:05,414 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed Thriller 🌟 (https://twitter.com/Thrillerwtf) 📉
+2022-01-13 16:40:05,849 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed CLR Slapt (https://twitter.com/Slaptcuz) 📉
+2022-01-13 16:40:06,252 twitter INFO Tweet published: SerpentAU (https://twitter.com/SerpentAU) unfollowed DeadFall🥀 (https://twitter.com/deadfallae) 📉
